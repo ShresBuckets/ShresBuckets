@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShresBuckets
-- 👀 I’m interested in Computer Science, Mathematics, Cryptography, Finance, Cyber Security
+- 👀 I’m interested in Computer Science, Mathematics, Cryptography, Finance
 - 🌱 I’m currently learning Computer Science at TVS,
 - 💞️ I’m looking to collaborate on: idk, anything tbh.
 - 📫 How to reach me: email Krabs7900@gmail.com
