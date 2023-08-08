@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShresBuckets
-- 👀 I’m interested in Computer Science, Mathematics, Cryptography, Finance
-- 🌱 I’m currently learning Computer Science at TVS,
-- 💞️ I’m looking to collaborate on: idk, anything tbh.
+- 👀 I’m interested in Competitive Programming, Machine Learning, Political Philosohpy and Epistemology, Piano
+- 🌱 I’m currently learning Computer Science at Stanford OHS
 - 📫 How to reach me: email Krabs7900@gmail.com
 
 <!---
