@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShresBuckets
-- 👀 I’m interested in Competitive Programming, Machine Learning, Political Philosohpy and Epistemology, Piano
+- 👀 I’m interested in Competitive Programming, Web Dev, Philosophy, and Piano
 - 🌱 I’m currently learning Computer Science at Stanford OHS
 - 📫 How to reach me: email Krabs7900@gmail.com
 
